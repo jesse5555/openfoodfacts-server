@@ -29,13 +29,13 @@
          },
          "impact" : {
             "id" : "none",
-            "lc_name" : "None",
-            "name" : "None"
+            "lc_name" : "",
+            "name" : ""
          },
          "message" : {
             "id" : "unrecognized_value",
-            "lc_name" : "Unrecognized value",
-            "name" : "Unrecognized value"
+            "lc_name" : "",
+            "name" : ""
          }
       }
    ]

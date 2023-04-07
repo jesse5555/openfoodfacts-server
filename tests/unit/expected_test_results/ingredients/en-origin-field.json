@@ -51,7 +51,6 @@
       },
       {
          "id" : "en:bell-pepper",
-         "origins" : "en:guatemala",
          "percent_estimate" : 2.60416666666666,
          "percent_max" : 16.6666666666667,
          "percent_min" : 0,
@@ -134,12 +133,6 @@
          "ingredient" : "White peaches",
          "origins" : "en:mexico",
          "text" : "White peaches : Mexico"
-      },
-      {
-         "id" : "en:bell-pepper",
-         "ingredient" : "bell peppers",
-         "origins" : "en:guatemala",
-         "text" : "Origin of bell peppers: Guatemala"
       }
    ],
    "unknown_ingredients_n" : 0

@@ -15,55 +15,54 @@
          "attributes" : [
             {
                "description" : "",
-               "description_short" : "Données manquantes pour calculer le Nutri-Score",
+               "description_short" : "",
                "grade" : "unknown",
                "icon_url" : "https://server_domain/images/attributes/nutriscore-unknown.svg",
                "id" : "nutriscore",
                "match" : 0,
-               "name" : "Nutri-Score",
                "panel_id" : "nutriscore",
                "status" : "unknown",
-               "title" : "Nutri-Score inconnu"
+               "title" : ""
             },
             {
                "grade" : "unknown",
                "icon_url" : "https://server_domain/images/attributes/nutrient-level-salt-unknown.svg",
                "id" : "low_salt",
-               "missing" : "Données nutritionnelles manquantes",
+               "missing" : "",
                "name" : "Sel",
                "status" : "unknown",
-               "title" : "Sel en quantité inconnue"
+               "title" : ""
             },
             {
                "grade" : "unknown",
                "icon_url" : "https://server_domain/images/attributes/nutrient-level-fat-unknown.svg",
                "id" : "low_fat",
-               "missing" : "Données nutritionnelles manquantes",
+               "missing" : "",
                "name" : "Matières grasses",
                "status" : "unknown",
-               "title" : "Matières grasses en quantité inconnue"
+               "title" : ""
             },
             {
                "grade" : "unknown",
                "icon_url" : "https://server_domain/images/attributes/nutrient-level-sugars-unknown.svg",
                "id" : "low_sugars",
-               "missing" : "Données nutritionnelles manquantes",
+               "missing" : "",
                "name" : "Sucres",
                "status" : "unknown",
-               "title" : "Sucres en quantité inconnue"
+               "title" : ""
             },
             {
                "grade" : "unknown",
                "icon_url" : "https://server_domain/images/attributes/nutrient-level-saturated-fat-unknown.svg",
                "id" : "low_saturated_fat",
-               "missing" : "Données nutritionnelles manquantes",
+               "missing" : "",
                "name" : "Acides gras saturés",
                "status" : "unknown",
-               "title" : "Acides gras saturés en quantité inconnue"
+               "title" : ""
             }
          ],
          "id" : "nutritional_quality",
-         "name" : "Qualité nutritionnelle"
+         "name" : ""
       },
       {
          "attributes" : [
@@ -75,7 +74,7 @@
                "match" : 100,
                "name" : "Gluten",
                "status" : "known",
-               "title" : "Ne contient pas : Gluten"
+               "title" : ""
             },
             {
                "debug" : "4 ingredients (0 unknown)",
@@ -85,7 +84,7 @@
                "match" : 100,
                "name" : "Lait",
                "status" : "known",
-               "title" : "Ne contient pas : Lait"
+               "title" : ""
             },
             {
                "debug" : "4 ingredients (0 unknown)",
@@ -95,7 +94,7 @@
                "match" : 100,
                "name" : "Œufs",
                "status" : "known",
-               "title" : "Ne contient pas : Œufs"
+               "title" : ""
             },
             {
                "debug" : "4 ingredients (0 unknown)",
@@ -105,7 +104,7 @@
                "match" : 100,
                "name" : "Fruits à coque",
                "status" : "known",
-               "title" : "Ne contient pas : Fruits à coque"
+               "title" : ""
             },
             {
                "debug" : "4 ingredients (0 unknown)",
@@ -115,7 +114,7 @@
                "match" : 100,
                "name" : "Arachides",
                "status" : "known",
-               "title" : "Ne contient pas : Arachides"
+               "title" : ""
             },
             {
                "debug" : "4 ingredients (0 unknown)",
@@ -125,7 +124,7 @@
                "match" : 100,
                "name" : "Graines de sésame",
                "status" : "known",
-               "title" : "Ne contient pas : Graines de sésame"
+               "title" : ""
             },
             {
                "debug" : "4 ingredients (0 unknown)",
@@ -135,7 +134,7 @@
                "match" : 100,
                "name" : "Soja",
                "status" : "known",
-               "title" : "Ne contient pas : Soja"
+               "title" : ""
             },
             {
                "debug" : "4 ingredients (0 unknown)",
@@ -145,7 +144,7 @@
                "match" : 100,
                "name" : "Céleri",
                "status" : "known",
-               "title" : "Ne contient pas : Céleri"
+               "title" : ""
             },
             {
                "debug" : "4 ingredients (0 unknown)",
@@ -155,7 +154,7 @@
                "match" : 100,
                "name" : "Moutarde",
                "status" : "known",
-               "title" : "Ne contient pas : Moutarde"
+               "title" : ""
             },
             {
                "debug" : "4 ingredients (0 unknown)",
@@ -165,7 +164,7 @@
                "match" : 100,
                "name" : "Lupin",
                "status" : "known",
-               "title" : "Ne contient pas : Lupin"
+               "title" : ""
             },
             {
                "debug" : "4 ingredients (0 unknown)",
@@ -175,7 +174,7 @@
                "match" : 100,
                "name" : "Poisson",
                "status" : "known",
-               "title" : "Ne contient pas : Poisson"
+               "title" : ""
             },
             {
                "debug" : "4 ingredients (0 unknown)",
@@ -185,7 +184,7 @@
                "match" : 100,
                "name" : "Crustacés",
                "status" : "known",
-               "title" : "Ne contient pas : Crustacés"
+               "title" : ""
             },
             {
                "debug" : "4 ingredients (0 unknown)",
@@ -195,7 +194,7 @@
                "match" : 100,
                "name" : "Mollusques",
                "status" : "known",
-               "title" : "Ne contient pas : Mollusques"
+               "title" : ""
             },
             {
                "debug" : "4 ingredients (0 unknown)",
@@ -205,12 +204,11 @@
                "match" : 100,
                "name" : "Anhydride sulfureux et sulfites",
                "status" : "known",
-               "title" : "Ne contient pas : Anhydride sulfureux et sulfites"
+               "title" : ""
             }
          ],
          "id" : "allergens",
-         "name" : "Allergènes",
-         "warning" : "Il est toujours possible que les données sur les allergènes soient manquantes, incomplètes, incorrectes ou que la composition du produit ait changé. Si vous êtes allergique, vérifiez toujours les informations sur l'emballage réel du produit."
+         "name" : ""
       },
       {
          "attributes" : [
@@ -246,90 +244,80 @@
             }
          ],
          "id" : "ingredients_analysis",
-         "name" : "Ingrédients"
+         "name" : ""
       },
       {
          "attributes" : [
             {
                "description" : "",
-               "description_short" : "Degré de transformation des aliments inconnu",
+               "description_short" : "",
                "grade" : "unknown",
                "icon_url" : "https://server_domain/images/attributes/nova-group-unknown.svg",
                "id" : "nova",
                "match" : 0,
-               "name" : "Groupe NOVA",
                "panel_id" : "nova",
                "status" : "unknown",
-               "title" : "NOVA non calculé"
+               "title" : ""
             },
             {
                "grade" : "a",
                "icon_url" : "https://server_domain/images/attributes/0-additives.svg",
                "id" : "additives",
                "match" : 100,
-               "name" : "Additifs",
                "panel_id" : "additives",
                "status" : "known",
-               "title" : "Sans additives"
+               "title" : ""
             }
          ],
          "id" : "processing",
-         "name" : "Transformation des aliments"
+         "name" : ""
       },
       {
          "attributes" : [
             {
                "description" : "",
-               "description_short" : "Impact environnemental inconnu",
+               "description_short" : "",
                "grade" : "unknown",
                "icon_url" : "https://server_domain/images/attributes/ecoscore-unknown.svg",
                "id" : "ecoscore",
                "match" : 0,
-               "name" : "Eco-Score",
                "panel_id" : "ecoscore",
                "status" : "unknown",
-               "title" : "Eco-Score non calculé"
+               "title" : ""
             },
             {
                "description" : "",
-               "description_short" : "Pour l'instant seulement pour les produits avec du poulet ou des oeufs",
+               "description_short" : "",
                "grade" : "e",
                "icon_url" : "https://server_domain/images/attributes/forest-footprint-not-computed.svg",
                "id" : "forest_footprint",
                "match" : 0,
-               "name" : "Empreinte forêt",
                "status" : "known",
-               "title" : "Empreinte forêt non calculée"
+               "title" : ""
             }
          ],
          "id" : "environment",
-         "name" : "Environnement"
+         "name" : ""
       },
       {
          "attributes" : [
             {
-               "description" : "L'agriculture biologique vise à protéger l'environnement et à conserver la biodiversité en prohibant ou limitant l'utilisation d'engrais synthétiques, de pesticides et d'additifs alimentaires.",
-               "description_short" : "Les produits bios encouragent la durabilité écologique et la biodiversité.",
                "grade" : "unknown",
                "icon_url" : "https://server_domain/images/attributes/organic-unknown.svg",
                "id" : "labels_organic",
-               "name" : "Agriculture biologique",
                "status" : "unknown",
-               "title" : "Information manquante : produit bio ?"
+               "title" : ""
             },
             {
-               "description" : "Quand vous achetez des produits du commerce équitable, les producteurs dans les pays en développement sont payés un prix plus haut et plus équitable, ce qui les aide à atteindre des plus hauts standards sociaux et environnementaux et à les conserver.",
-               "description_short" : "Les produits du commerce équitable aident les producteurs des pays en voie de développement.",
                "grade" : "unknown",
                "icon_url" : "https://server_domain/images/attributes/fair-trade-unknown.svg",
                "id" : "labels_fair_trade",
-               "name" : "Commerce équitable",
                "status" : "unknown",
-               "title" : "Information manquante : produit de commerce équitable ?"
+               "title" : ""
             }
          ],
          "id" : "labels",
-         "name" : "Labels"
+         "name" : ""
       }
    ],
    "categories_properties" : {},

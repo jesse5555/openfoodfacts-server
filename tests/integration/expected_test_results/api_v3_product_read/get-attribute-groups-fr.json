@@ -7,55 +7,54 @@
             "attributes" : [
                {
                   "description" : "",
-                  "description_short" : "Données manquantes pour calculer le Nutri-Score",
+                  "description_short" : "",
                   "grade" : "unknown",
                   "icon_url" : "http://static.openfoodfacts.localhost/images/attributes/nutriscore-unknown.svg",
                   "id" : "nutriscore",
                   "match" : 0,
-                  "name" : "Nutri-Score",
                   "panel_id" : "nutriscore",
                   "status" : "unknown",
-                  "title" : "Nutri-Score inconnu"
+                  "title" : ""
                },
                {
                   "grade" : "unknown",
                   "icon_url" : "http://static.openfoodfacts.localhost/images/attributes/nutrient-level-salt-unknown.svg",
                   "id" : "low_salt",
-                  "missing" : "Données nutritionnelles manquantes",
+                  "missing" : "",
                   "name" : "Sel",
                   "status" : "unknown",
-                  "title" : "Sel en quantité inconnue"
+                  "title" : ""
                },
                {
                   "grade" : "unknown",
                   "icon_url" : "http://static.openfoodfacts.localhost/images/attributes/nutrient-level-fat-unknown.svg",
                   "id" : "low_fat",
-                  "missing" : "Données nutritionnelles manquantes",
+                  "missing" : "",
                   "name" : "Matières grasses",
                   "status" : "unknown",
-                  "title" : "Matières grasses en quantité inconnue"
+                  "title" : ""
                },
                {
                   "grade" : "unknown",
                   "icon_url" : "http://static.openfoodfacts.localhost/images/attributes/nutrient-level-sugars-unknown.svg",
                   "id" : "low_sugars",
-                  "missing" : "Données nutritionnelles manquantes",
+                  "missing" : "",
                   "name" : "Sucres",
                   "status" : "unknown",
-                  "title" : "Sucres en quantité inconnue"
+                  "title" : ""
                },
                {
                   "grade" : "unknown",
                   "icon_url" : "http://static.openfoodfacts.localhost/images/attributes/nutrient-level-saturated-fat-unknown.svg",
                   "id" : "low_saturated_fat",
-                  "missing" : "Données nutritionnelles manquantes",
+                  "missing" : "",
                   "name" : "Acides gras saturés",
                   "status" : "unknown",
-                  "title" : "Acides gras saturés en quantité inconnue"
+                  "title" : ""
                }
             ],
             "id" : "nutritional_quality",
-            "name" : "Qualité nutritionnelle"
+            "name" : ""
          },
          {
             "attributes" : [
@@ -67,7 +66,7 @@
                   "match" : 100,
                   "name" : "Gluten",
                   "status" : "known",
-                  "title" : "Ne contient pas : Gluten"
+                  "title" : ""
                },
                {
                   "debug" : "en:milk in allergens",
@@ -77,17 +76,17 @@
                   "match" : 0,
                   "name" : "Lait",
                   "status" : "known",
-                  "title" : "Contient : Lait"
+                  "title" : ""
                },
                {
-                  "debug" : "en:eggs in allergens",
-                  "grade" : "e",
-                  "icon_url" : "http://static.openfoodfacts.localhost/images/attributes/contains-eggs.svg",
+                  "debug" : "4 ingredients (0 unknown)",
+                  "grade" : "a",
+                  "icon_url" : "http://static.openfoodfacts.localhost/images/attributes/no-eggs.svg",
                   "id" : "allergens_no_eggs",
-                  "match" : 0,
+                  "match" : 100,
                   "name" : "Œufs",
                   "status" : "known",
-                  "title" : "Contient : Œufs"
+                  "title" : ""
                },
                {
                   "debug" : "4 ingredients (0 unknown)",
@@ -97,7 +96,7 @@
                   "match" : 100,
                   "name" : "Fruits à coque",
                   "status" : "known",
-                  "title" : "Ne contient pas : Fruits à coque"
+                  "title" : ""
                },
                {
                   "debug" : "4 ingredients (0 unknown)",
@@ -107,7 +106,7 @@
                   "match" : 100,
                   "name" : "Arachides",
                   "status" : "known",
-                  "title" : "Ne contient pas : Arachides"
+                  "title" : ""
                },
                {
                   "debug" : "4 ingredients (0 unknown)",
@@ -117,7 +116,7 @@
                   "match" : 100,
                   "name" : "Graines de sésame",
                   "status" : "known",
-                  "title" : "Ne contient pas : Graines de sésame"
+                  "title" : ""
                },
                {
                   "debug" : "4 ingredients (0 unknown)",
@@ -127,7 +126,7 @@
                   "match" : 100,
                   "name" : "Soja",
                   "status" : "known",
-                  "title" : "Ne contient pas : Soja"
+                  "title" : ""
                },
                {
                   "debug" : "4 ingredients (0 unknown)",
@@ -137,7 +136,7 @@
                   "match" : 100,
                   "name" : "Céleri",
                   "status" : "known",
-                  "title" : "Ne contient pas : Céleri"
+                  "title" : ""
                },
                {
                   "debug" : "4 ingredients (0 unknown)",
@@ -147,7 +146,7 @@
                   "match" : 100,
                   "name" : "Moutarde",
                   "status" : "known",
-                  "title" : "Ne contient pas : Moutarde"
+                  "title" : ""
                },
                {
                   "debug" : "4 ingredients (0 unknown)",
@@ -157,7 +156,7 @@
                   "match" : 100,
                   "name" : "Lupin",
                   "status" : "known",
-                  "title" : "Ne contient pas : Lupin"
+                  "title" : ""
                },
                {
                   "debug" : "4 ingredients (0 unknown)",
@@ -167,7 +166,7 @@
                   "match" : 100,
                   "name" : "Poisson",
                   "status" : "known",
-                  "title" : "Ne contient pas : Poisson"
+                  "title" : ""
                },
                {
                   "debug" : "4 ingredients (0 unknown)",
@@ -177,7 +176,7 @@
                   "match" : 100,
                   "name" : "Crustacés",
                   "status" : "known",
-                  "title" : "Ne contient pas : Crustacés"
+                  "title" : ""
                },
                {
                   "debug" : "4 ingredients (0 unknown)",
@@ -187,7 +186,7 @@
                   "match" : 100,
                   "name" : "Mollusques",
                   "status" : "known",
-                  "title" : "Ne contient pas : Mollusques"
+                  "title" : ""
                },
                {
                   "debug" : "4 ingredients (0 unknown)",
@@ -197,12 +196,11 @@
                   "match" : 100,
                   "name" : "Anhydride sulfureux et sulfites",
                   "status" : "known",
-                  "title" : "Ne contient pas : Anhydride sulfureux et sulfites"
+                  "title" : ""
                }
             ],
             "id" : "allergens",
-            "name" : "Allergènes",
-            "warning" : "Il est toujours possible que les données sur les allergènes soient manquantes, incomplètes, incorrectes ou que la composition du produit ait changé. Si vous êtes allergique, vérifiez toujours les informations sur l'emballage réel du produit."
+            "name" : ""
          },
          {
             "attributes" : [
@@ -238,99 +236,89 @@
                }
             ],
             "id" : "ingredients_analysis",
-            "name" : "Ingrédients"
+            "name" : ""
          },
          {
             "attributes" : [
                {
                   "description" : "",
-                  "description_short" : "Aliments transformés",
+                  "description_short" : "",
                   "grade" : "b",
                   "icon_url" : "http://static.openfoodfacts.localhost/images/attributes/nova-group-3.svg",
                   "id" : "nova",
                   "match" : 75,
-                  "name" : "Groupe NOVA",
                   "panel_id" : "nova",
                   "status" : "known",
-                  "title" : "NOVA 3"
+                  "title" : ""
                },
                {
                   "grade" : "a",
                   "icon_url" : "http://static.openfoodfacts.localhost/images/attributes/0-additives.svg",
                   "id" : "additives",
                   "match" : 100,
-                  "name" : "Additifs",
                   "panel_id" : "additives",
                   "status" : "known",
-                  "title" : "Sans additifs"
+                  "title" : ""
                }
             ],
             "id" : "processing",
-            "name" : "Transformation des aliments"
+            "name" : ""
          },
          {
             "attributes" : [
                {
                   "description" : "",
-                  "description_short" : "Impact modéré sur l'environnement",
+                  "description_short" : "",
                   "grade" : "c",
                   "icon_url" : "http://static.openfoodfacts.localhost/images/attributes/ecoscore-c.svg",
                   "id" : "ecoscore",
                   "match" : 47,
-                  "name" : "Eco-Score",
                   "panel_id" : "ecoscore",
                   "status" : "known",
-                  "title" : "Eco-Score C"
+                  "title" : ""
                },
                {
                   "description" : "",
-                  "description_short" : "Pas de risque de déforestation",
+                  "description_short" : "",
                   "grade" : "a",
                   "icon_url" : "http://static.openfoodfacts.localhost/images/attributes/forest-footprint-a.svg",
                   "id" : "forest_footprint",
                   "match" : 99.9416666666667,
-                  "name" : "Empreinte forêt",
                   "status" : "known",
-                  "title" : "Très petite empreinte forêt"
+                  "title" : ""
                }
             ],
             "id" : "environment",
-            "name" : "Environnement"
+            "name" : ""
          },
          {
             "attributes" : [
                {
-                  "description" : "L'agriculture biologique vise à protéger l'environnement et à conserver la biodiversité en prohibant ou limitant l'utilisation d'engrais synthétiques, de pesticides et d'additifs alimentaires.",
-                  "description_short" : "Encourage la durabilité écologique et la biodiversité.",
                   "grade" : "a",
                   "icon_url" : "http://static.openfoodfacts.localhost/images/attributes/organic.svg",
                   "id" : "labels_organic",
                   "match" : 100,
-                  "name" : "Agriculture biologique",
                   "status" : "known",
-                  "title" : "Produit bio"
+                  "title" : ""
                },
                {
-                  "description" : "Quand vous achetez des produits du commerce équitable, les producteurs dans les pays en développement sont payés un prix plus haut et plus équitable, ce qui les aide à atteindre des plus hauts standards sociaux et environnementaux et à les conserver.",
-                  "description_short" : "Les produits du commerce équitable aident les producteurs des pays en voie de développement.",
                   "grade" : "e",
                   "icon_url" : "http://static.openfoodfacts.localhost/images/attributes/not-fair-trade.svg",
                   "id" : "labels_fair_trade",
                   "match" : 0,
-                  "name" : "Commerce équitable",
                   "status" : "known",
-                  "title" : "Ne provient pas du commerce équitable"
+                  "title" : ""
                }
             ],
             "id" : "labels",
-            "name" : "Labels"
+            "name" : ""
          }
       ]
    },
    "result" : {
       "id" : "product_found",
-      "lc_name" : "Produit trouvé",
-      "name" : "Product found"
+      "lc_name" : "",
+      "name" : ""
    },
    "status" : "success",
    "warnings" : []

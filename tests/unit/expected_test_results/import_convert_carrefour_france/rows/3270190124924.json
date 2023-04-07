@@ -1,5 +1,5 @@
 {
-   "allergens" : "Moutarde, Anhydride sulfureux et sulfites",
+   "allergens" : "Moutarde",
    "brands" : "Carrefour",
    "carbohydrates_unit" : "g",
    "carbohydrates_value" : "3.2",
@@ -80,7 +80,6 @@
    "stores" : "Carrefour",
    "sugars_unit" : "g",
    "sugars_value" : "2.7",
-   "traces" : "",
    "warning_es" : "",
    "warning_fr" : "",
    "warning_it" : "",

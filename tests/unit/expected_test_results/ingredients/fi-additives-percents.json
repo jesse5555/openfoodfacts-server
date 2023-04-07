@@ -47,15 +47,6 @@
       },
       {
          "id" : "en:emulsifier",
-         "ingredients" : [
-            {
-               "id" : "en:e463",
-               "percent_estimate" : 22,
-               "text" : "e463",
-               "vegan" : "yes",
-               "vegetarian" : "yes"
-            }
-         ],
          "percent_estimate" : 22,
          "text" : "emulgointiaineet"
       },
@@ -77,22 +68,6 @@
       },
       {
          "id" : "en:acidity-regulator",
-         "ingredients" : [
-            {
-               "id" : "en:e322",
-               "percent_estimate" : 1.375,
-               "text" : "e322",
-               "vegan" : "maybe",
-               "vegetarian" : "maybe"
-            },
-            {
-               "id" : "en:e333",
-               "percent_estimate" : 1.375,
-               "text" : "e333",
-               "vegan" : "yes",
-               "vegetarian" : "yes"
-            }
-         ],
          "percent_estimate" : 2.75,
          "text" : "happamuudensäätöaineet"
       },
@@ -147,7 +122,6 @@
       "en:maybe-vegetarian" : [
          "en:e432",
          "en:e472",
-         "en:e322",
          "en:e474",
          "en:e475"
       ],
@@ -182,15 +156,12 @@
       "en:animal-protein",
       "en:chicken-egg",
       "en:egg",
-      "en:e463",
-      "en:e322",
-      "en:e333",
       "en:e330",
       "en:e338"
    ],
-   "ingredients_n" : 19,
+   "ingredients_n" : 16,
    "ingredients_n_tags" : [
-      "19",
+      "16",
       "11-20"
    ],
    "ingredients_original_tags" : [
@@ -208,9 +179,6 @@
       "en:sugar",
       "en:milk-proteins",
       "en:chicken-egg",
-      "en:e463",
-      "en:e322",
-      "en:e333",
       "en:e330",
       "en:e338"
    ],
@@ -236,18 +204,15 @@
       "en:animal-protein",
       "en:chicken-egg",
       "en:egg",
-      "en:e463",
-      "en:e322",
-      "en:e333",
       "en:e330",
       "en:e338"
    ],
    "ingredients_text" : "jauho (12%), suklaa (kaakaovoi (15%), sokeri [10%], maitoproteiini, kananmuna 1%) - emulgointiaineet : E463, E432 ja E472 - happamuudensäätöaineet : E322/E333 E474-E475, happo (sitruunahappo, fosforihappo) - suola",
    "ingredients_with_specified_percent_n" : 1,
    "ingredients_with_specified_percent_sum" : 12,
-   "ingredients_with_unspecified_percent_n" : 14,
+   "ingredients_with_unspecified_percent_n" : 13,
    "ingredients_with_unspecified_percent_sum" : 88,
-   "known_ingredients_n" : 25,
+   "known_ingredients_n" : 22,
    "lc" : "fi",
    "nutriments" : {
       "fruits-vegetables-nuts-estimate-from-ingredients_100g" : 0,

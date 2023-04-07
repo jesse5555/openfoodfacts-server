@@ -89,17 +89,6 @@
       },
       {
          "id" : "en:acid",
-         "ingredients" : [
-            {
-               "id" : "en:e330",
-               "percent_estimate" : 1.4375,
-               "percent_max" : 2.75,
-               "percent_min" : 0,
-               "text" : "ácido cítrico",
-               "vegan" : "yes",
-               "vegetarian" : "yes"
-            }
-         ],
          "percent_estimate" : 1.4375,
          "percent_max" : 2.75,
          "percent_min" : 0,
@@ -141,13 +130,12 @@
       "en:corn-starch",
       "en:starch",
       "en:salt",
-      "en:acid",
-      "en:e330"
+      "en:acid"
    ],
-   "ingredients_n" : 11,
+   "ingredients_n" : 10,
    "ingredients_n_tags" : [
-      "11",
-      "11-20"
+      "10",
+      "1-10"
    ],
    "ingredients_original_tags" : [
       "en:tomato",
@@ -159,8 +147,7 @@
       "en:sugar",
       "en:corn-starch",
       "en:salt",
-      "en:acid",
-      "en:e330"
+      "en:acid"
    ],
    "ingredients_percent_analysis" : 1,
    "ingredients_tags" : [
@@ -184,15 +171,14 @@
       "en:corn-starch",
       "en:starch",
       "en:salt",
-      "en:acid",
-      "en:e330"
+      "en:acid"
    ],
    "ingredients_text" : "Tomate, pimiento (12%), atún (10%), aceite de oliva virgen extra (4%), huevo (3%), cebolla (3%), azúcar, almidón de maíz, sal y acidulante: ácido cítrico.",
    "ingredients_with_specified_percent_n" : 5,
    "ingredients_with_specified_percent_sum" : 32,
    "ingredients_with_unspecified_percent_n" : 5,
    "ingredients_with_unspecified_percent_sum" : 68,
-   "known_ingredients_n" : 22,
+   "known_ingredients_n" : 21,
    "lc" : "es",
    "nutriments" : {
       "fruits-vegetables-nuts-estimate-from-ingredients_100g" : 75.25,

@@ -83,6 +83,168 @@
       },
       {
          "id" : "en:spice",
+         "ingredients" : [
+            {
+               "id" : "fr:p",
+               "percent_estimate" : 0.078125,
+               "percent_max" : 4.42857142857143,
+               "percent_min" : 0,
+               "text" : "p"
+            },
+            {
+               "id" : "en:bone",
+               "percent_estimate" : 0.0390625,
+               "percent_max" : 2.21428571428571,
+               "percent_min" : 0,
+               "text" : "o",
+               "vegan" : "no",
+               "vegetarian" : "no"
+            },
+            {
+               "id" : "fr:i",
+               "percent_estimate" : 0.01953125,
+               "percent_max" : 1.47619047619048,
+               "percent_min" : 0,
+               "text" : "i"
+            },
+            {
+               "id" : "fr:s",
+               "percent_estimate" : 0.009765625,
+               "percent_max" : 1.10714285714286,
+               "percent_min" : 0,
+               "text" : "s"
+            },
+            {
+               "id" : "fr:s",
+               "percent_estimate" : 0.0048828125,
+               "percent_max" : 0.885714285714286,
+               "percent_min" : 0,
+               "text" : "s"
+            },
+            {
+               "id" : "en:bone",
+               "percent_estimate" : 0.00244140625,
+               "percent_max" : 0.738095238095238,
+               "percent_min" : 0,
+               "text" : "o",
+               "vegan" : "no",
+               "vegetarian" : "no"
+            },
+            {
+               "id" : "fr:n",
+               "percent_estimate" : 0.001220703125,
+               "percent_max" : 0.63265306122449,
+               "percent_min" : 0,
+               "text" : "n"
+            },
+            {
+               "id" : "fr:s",
+               "percent_estimate" : 0.0006103515625,
+               "percent_max" : 0.553571428571429,
+               "percent_min" : 0,
+               "text" : "s"
+            },
+            {
+               "id" : "fr:e",
+               "percent_estimate" : 0.00030517578125,
+               "percent_max" : 0.492063492063492,
+               "percent_min" : 0,
+               "text" : "e"
+            },
+            {
+               "id" : "fr:t",
+               "percent_estimate" : 0.000152587890625,
+               "percent_max" : 0.442857142857143,
+               "percent_min" : 0,
+               "text" : "t"
+            },
+            {
+               "id" : "fr:f",
+               "percent_estimate" : 7.62939453125e-05,
+               "percent_max" : 0.442857142857143,
+               "percent_min" : 0,
+               "text" : "f"
+            },
+            {
+               "id" : "fr:r",
+               "percent_estimate" : 3.814697265625e-05,
+               "percent_max" : 0.442857142857143,
+               "percent_min" : 0,
+               "text" : "r"
+            },
+            {
+               "id" : "fr:u",
+               "percent_estimate" : 1.9073486328125e-05,
+               "percent_max" : 0.402597402597403,
+               "percent_min" : 0,
+               "text" : "u"
+            },
+            {
+               "id" : "fr:i",
+               "percent_estimate" : 9.5367431640625e-06,
+               "percent_max" : 0.402597402597403,
+               "percent_min" : 0,
+               "text" : "i"
+            },
+            {
+               "id" : "fr:t",
+               "percent_estimate" : 4.76837158203125e-06,
+               "percent_max" : 0.295238095238095,
+               "percent_min" : 0,
+               "text" : "t"
+            },
+            {
+               "id" : "fr:s",
+               "percent_estimate" : 2.38418579101562e-06,
+               "percent_max" : 0.276785714285714,
+               "percent_min" : 0,
+               "text" : "s"
+            },
+            {
+               "id" : "fr:a",
+               "percent_estimate" : 1.19209289550781e-06,
+               "percent_max" : 0.276785714285714,
+               "percent_min" : 0,
+               "text" : "à"
+            },
+            {
+               "id" : "fr:c",
+               "percent_estimate" : 5.96046447753906e-07,
+               "percent_max" : 0.276785714285714,
+               "percent_min" : 0,
+               "text" : "c"
+            },
+            {
+               "id" : "en:bone",
+               "percent_estimate" : 2.98023223876953e-07,
+               "percent_max" : 0.276785714285714,
+               "percent_min" : 0,
+               "text" : "o",
+               "vegan" : "no",
+               "vegetarian" : "no"
+            },
+            {
+               "id" : "fr:q",
+               "percent_estimate" : 1.49011611938477e-07,
+               "percent_max" : 0.221428571428571,
+               "percent_min" : 0,
+               "text" : "q"
+            },
+            {
+               "id" : "fr:u",
+               "percent_estimate" : 7.45058059692383e-08,
+               "percent_max" : 0.210884353741497,
+               "percent_min" : 0,
+               "text" : "u"
+            },
+            {
+               "id" : "fr:e",
+               "percent_estimate" : 7.45058059692383e-08,
+               "percent_max" : 0.201298701298701,
+               "percent_min" : 0,
+               "text" : "e"
+            }
+         ],
          "labels" : "en:organic",
          "percent_estimate" : 0.15625,
          "percent_max" : 4.42857142857143,
@@ -93,17 +255,85 @@
       }
    ],
    "ingredients_analysis" : {
-      "en:maybe-vegetarian" : [
-         "en:mozzarella"
-      ],
       "en:non-vegan" : [
-         "en:mozzarella"
+         "en:mozzarella",
+         "en:bone",
+         "en:bone",
+         "en:bone"
+      ],
+      "en:non-vegetarian" : [
+         "en:bone",
+         "en:bone",
+         "en:bone"
+      ],
+      "en:palm-oil-content-unknown" : [
+         "fr:p",
+         "fr:i",
+         "fr:s",
+         "fr:s",
+         "fr:n",
+         "fr:s",
+         "fr:e",
+         "fr:t",
+         "fr:f",
+         "fr:r",
+         "fr:u",
+         "fr:i",
+         "fr:t",
+         "fr:s",
+         "fr:a",
+         "fr:c",
+         "fr:q",
+         "fr:u",
+         "fr:e"
+      ],
+      "en:vegan-status-unknown" : [
+         "fr:p",
+         "fr:i",
+         "fr:s",
+         "fr:s",
+         "fr:n",
+         "fr:s",
+         "fr:e",
+         "fr:t",
+         "fr:f",
+         "fr:r",
+         "fr:u",
+         "fr:i",
+         "fr:t",
+         "fr:s",
+         "fr:a",
+         "fr:c",
+         "fr:q",
+         "fr:u",
+         "fr:e"
+      ],
+      "en:vegetarian-status-unknown" : [
+         "fr:p",
+         "fr:i",
+         "fr:s",
+         "fr:s",
+         "fr:n",
+         "fr:s",
+         "fr:e",
+         "fr:t",
+         "fr:f",
+         "fr:r",
+         "fr:u",
+         "fr:i",
+         "fr:t",
+         "fr:s",
+         "fr:a",
+         "fr:c",
+         "fr:q",
+         "fr:u",
+         "fr:e"
       ]
    },
    "ingredients_analysis_tags" : [
-      "en:palm-oil-free",
+      "en:palm-oil-content-unknown",
       "en:non-vegan",
-      "en:maybe-vegetarian"
+      "en:non-vegetarian"
    ],
    "ingredients_hierarchy" : [
       "en:wheat-flour",
@@ -126,12 +356,25 @@
       "en:salt",
       "en:herb",
       "en:spice",
-      "en:condiment"
+      "en:condiment",
+      "fr:p",
+      "en:bone",
+      "fr:i",
+      "fr:s",
+      "fr:n",
+      "fr:e",
+      "fr:t",
+      "fr:f",
+      "fr:r",
+      "fr:u",
+      "fr:a",
+      "fr:c",
+      "fr:q"
    ],
-   "ingredients_n" : 9,
+   "ingredients_n" : 31,
    "ingredients_n_tags" : [
-      "9",
-      "1-10"
+      "31",
+      "31-40"
    ],
    "ingredients_original_tags" : [
       "en:wheat-flour",
@@ -142,7 +385,29 @@
       "en:yeast",
       "en:salt",
       "en:herb",
-      "en:spice"
+      "en:spice",
+      "fr:p",
+      "en:bone",
+      "fr:i",
+      "fr:s",
+      "fr:s",
+      "en:bone",
+      "fr:n",
+      "fr:s",
+      "fr:e",
+      "fr:t",
+      "fr:f",
+      "fr:r",
+      "fr:u",
+      "fr:i",
+      "fr:t",
+      "fr:s",
+      "fr:a",
+      "fr:c",
+      "en:bone",
+      "fr:q",
+      "fr:u",
+      "fr:e"
    ],
    "ingredients_percent_analysis" : 1,
    "ingredients_tags" : [
@@ -166,14 +431,27 @@
       "en:salt",
       "en:herb",
       "en:spice",
-      "en:condiment"
+      "en:condiment",
+      "fr:p",
+      "en:bone",
+      "fr:i",
+      "fr:s",
+      "fr:n",
+      "fr:e",
+      "fr:t",
+      "fr:f",
+      "fr:r",
+      "fr:u",
+      "fr:a",
+      "fr:c",
+      "fr:q"
    ],
    "ingredients_text" : "Farine de blé*, purée de tomates* 26%, eau, mozzarella râpée* 17%, huile de tournesol*, levure, sel, plantes aromatiques*, épices*. Traces de poissons et fruits à coque. * Ingrédients issus de l'agriculture biologique.",
    "ingredients_with_specified_percent_n" : 2,
    "ingredients_with_specified_percent_sum" : 43,
-   "ingredients_with_unspecified_percent_n" : 7,
+   "ingredients_with_unspecified_percent_n" : 28,
    "ingredients_with_unspecified_percent_sum" : 57,
-   "known_ingredients_n" : 21,
+   "known_ingredients_n" : 22,
    "lc" : "fr",
    "nutriments" : {
       "fruits-vegetables-nuts-estimate-from-ingredients_100g" : 26,
@@ -184,8 +462,8 @@
       "en:flour" : 33,
       "en:tomato" : 26,
       "en:water" : 21.5,
-      "other" : 2.5,
-      "unknown" : 0
+      "other" : 2.38525420427322,
+      "unknown" : 0.114745795726776
    },
-   "unknown_ingredients_n" : 0
+   "unknown_ingredients_n" : 12
 }

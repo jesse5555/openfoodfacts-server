@@ -20,6 +20,7 @@
       },
       {
          "id" : "en:semi-skimmed-milk",
+         "ingredients" : [],
          "origins" : "en:france",
          "percent" : 5.5,
          "percent_estimate" : 5.5,
@@ -29,6 +30,7 @@
       },
       {
          "id" : "en:single-cream",
+         "ingredients" : [],
          "origins" : "en:france",
          "percent" : 5.5,
          "percent_estimate" : 5.5,
@@ -47,6 +49,7 @@
       },
       {
          "id" : "en:butter",
+         "ingredients" : [],
          "origins" : "en:france",
          "percent" : 2.7,
          "percent_estimate" : 2.7,
@@ -66,6 +69,7 @@
       },
       {
          "id" : "en:cream",
+         "ingredients" : [],
          "origins" : "en:france",
          "percent" : 2.7,
          "percent_estimate" : 2.7,
@@ -94,6 +98,7 @@
       },
       {
          "id" : "en:spice",
+         "ingredients" : [],
          "origins" : "en:india",
          "percent" : 0.55,
          "percent_estimate" : 0.55,
@@ -215,8 +220,8 @@
       "en:salt"
    ],
    "ingredients_text" : "Pomme de Terre 47%, Porc 22%, Lait demi-écrémé (contient Lait) 5.5%, Crème liquide (contient Lait) 5.5%, Eau 5.5%,\n\t\t\tBeurre (contient Lait) 2.7%, Moutarde à l'ancienne (contient Moutarde, Sulfites) 2.7%, Crème (contient Lait) 2.7%, Moutarde de Dijon (contient Moutarde, Sulfites) 2.7%,\n\t\t\tMiel de fleurs 2.7%, Epices (contient Sésame) 0.55%, bouillon (contient Gluten, Lait, Céleri) 0.55%, Sel fin 0.14%",
-   "ingredients_with_specified_percent_n" : 10,
-   "ingredients_with_specified_percent_sum" : 94.29,
+   "ingredients_with_specified_percent_n" : 5,
+   "ingredients_with_specified_percent_sum" : 77.34,
    "ingredients_with_unspecified_percent_n" : 0,
    "ingredients_with_unspecified_percent_sum" : 0,
    "known_ingredients_n" : 23,

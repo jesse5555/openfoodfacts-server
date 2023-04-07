@@ -26,13 +26,13 @@
          },
          "impact" : {
             "id" : "field_ignored",
-            "lc_name" : "Field ignored",
-            "name" : "Field ignored"
+            "lc_name" : "",
+            "name" : ""
          },
          "message" : {
             "id" : "missing_field",
-            "lc_name" : "Missing field",
-            "name" : "Missing field"
+            "lc_name" : "",
+            "name" : ""
          }
       }
    ]

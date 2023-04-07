@@ -8,8 +8,8 @@
          },
          "impact" : {
             "id" : "failure",
-            "lc_name" : "Failure",
-            "name" : "Failure"
+            "lc_name" : "",
+            "name" : ""
          },
          "message" : {
             "id" : "product_not_found",
@@ -20,8 +20,8 @@
    ],
    "result" : {
       "id" : "product_not_found",
-      "lc_name" : "Product not found",
-      "name" : "Product not found"
+      "lc_name" : "",
+      "name" : ""
    },
    "status" : "failure",
    "warnings" : []

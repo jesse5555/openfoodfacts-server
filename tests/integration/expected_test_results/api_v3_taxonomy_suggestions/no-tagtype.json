@@ -6,13 +6,13 @@
          },
          "impact" : {
             "id" : "failure",
-            "lc_name" : "Failure",
-            "name" : "Failure"
+            "lc_name" : "",
+            "name" : ""
          },
          "message" : {
             "id" : "missing_field",
-            "lc_name" : "Missing field",
-            "name" : "Missing field"
+            "lc_name" : "",
+            "name" : ""
          }
       }
    ],

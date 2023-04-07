@@ -21,14 +21,12 @@
       "additives_original_tags" : [],
       "additives_tags" : [],
       "allergens" : "",
-      "allergens_from_ingredients" : "en:milk, milk, eggs",
+      "allergens_from_ingredients" : "en:milk",
       "allergens_from_user" : "(en) ",
       "allergens_hierarchy" : [
-         "en:eggs",
          "en:milk"
       ],
       "allergens_tags" : [
-         "en:eggs",
          "en:milk"
       ],
       "amino_acids_tags" : [],
@@ -518,9 +516,9 @@
       "ingredients_text" : "apple, milk, eggs, palm oil",
       "ingredients_text_en" : "apple, milk, eggs, palm oil",
       "ingredients_text_fr" : "Farine de blé, eau, sel, sucre",
-      "ingredients_text_with_allergens" : "apple, <span class=\"allergen\">milk</span>, <span class=\"allergen\">eggs</span>, palm oil",
-      "ingredients_text_with_allergens_en" : "apple, <span class=\"allergen\">milk</span>, <span class=\"allergen\">eggs</span>, palm oil",
-      "ingredients_text_with_allergens_fr" : "Farine de <span class=\"allergen\">blé</span>, eau, sel, sucre",
+      "ingredients_text_with_allergens" : "apple, milk, eggs, palm oil",
+      "ingredients_text_with_allergens_en" : "apple, milk, eggs, palm oil",
+      "ingredients_text_with_allergens_fr" : "Farine de blé, eau, sel, sucre",
       "ingredients_that_may_be_from_palm_oil_n" : 0,
       "ingredients_that_may_be_from_palm_oil_tags" : [],
       "ingredients_with_specified_percent_n" : 0,
@@ -594,9 +592,9 @@
          "sugars" : "moderate"
       },
       "nutrient_levels_tags" : [
-         "en:fat-in-moderate-quantity",
-         "en:sugars-in-moderate-quantity",
-         "en:salt-in-low-quantity"
+         "en:",
+         "en:",
+         "en:"
       ],
       "nutriments" : {
          "energy" : 10,

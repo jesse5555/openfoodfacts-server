@@ -7,13 +7,13 @@
          },
          "impact" : {
             "id" : "failure",
-            "lc_name" : "Failure",
-            "name" : "Failure"
+            "lc_name" : "",
+            "name" : ""
          },
          "message" : {
             "id" : "invalid_json_in_request_body",
-            "lc_name" : "Invalid JSON in request body",
-            "name" : "Invalid JSON in request body"
+            "lc_name" : "",
+            "name" : ""
          }
       }
    ],

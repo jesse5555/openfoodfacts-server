@@ -7,13 +7,13 @@
          },
          "impact" : {
             "id" : "failure",
-            "lc_name" : "Failure",
-            "name" : "Failure"
+            "lc_name" : "",
+            "name" : ""
          },
          "message" : {
             "id" : "empty_request_body",
-            "lc_name" : "Empty request body",
-            "name" : "Empty request body"
+            "lc_name" : "",
+            "name" : ""
          }
       }
    ],

@@ -32,7 +32,6 @@
       },
       {
          "id" : "en:apple",
-         "origins" : "en:normandy",
          "percent_estimate" : 9.375,
          "percent_max" : 25,
          "percent_min" : 0,

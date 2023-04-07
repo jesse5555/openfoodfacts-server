@@ -2,7 +2,7 @@
    "ingredients" : [
       {
          "id" : "en:emmental",
-         "origins" : "en:germany,en:france,en:netherlands",
+         "origins" : "en:germany,en:france,en:netherlands,fr:: l,fr:: a,fr:: i,fr:: t",
          "percent_estimate" : 100,
          "percent_max" : 100,
          "percent_min" : 100,

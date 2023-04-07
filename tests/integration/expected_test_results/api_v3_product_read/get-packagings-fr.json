@@ -70,8 +70,8 @@
    },
    "result" : {
       "id" : "product_found",
-      "lc_name" : "Product found",
-      "name" : "Product found"
+      "lc_name" : "",
+      "name" : ""
    },
    "status" : "success",
    "warnings" : []

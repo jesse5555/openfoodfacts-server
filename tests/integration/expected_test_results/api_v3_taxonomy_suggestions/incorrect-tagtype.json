@@ -7,13 +7,13 @@
          },
          "impact" : {
             "id" : "failure",
-            "lc_name" : "Failure",
-            "name" : "Failure"
+            "lc_name" : "",
+            "name" : ""
          },
          "message" : {
             "id" : "unrecognized_value",
-            "lc_name" : "Unrecognized value",
-            "name" : "Unrecognized value"
+            "lc_name" : "",
+            "name" : ""
          }
       }
    ],

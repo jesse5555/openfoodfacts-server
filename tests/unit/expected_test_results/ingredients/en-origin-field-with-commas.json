@@ -2,49 +2,66 @@
    "ingredients" : [
       {
          "id" : "en:milk",
-         "origins" : "en:belgium,en:spain",
-         "percent_estimate" : 75,
+         "percent_estimate" : 66.6666666666667,
          "percent_max" : 100,
-         "percent_min" : 50,
+         "percent_min" : 33.3333333333333,
          "text" : "Milk",
          "vegan" : "no",
          "vegetarian" : "yes"
       },
       {
          "id" : "en:sugar",
-         "percent_estimate" : 25,
+         "percent_estimate" : 16.6666666666667,
          "percent_max" : 50,
          "percent_min" : 0,
          "text" : "sugar",
          "vegan" : "yes",
          "vegetarian" : "yes"
+      },
+      {
+         "id" : "en:spain",
+         "percent_estimate" : 16.6666666666667,
+         "percent_max" : 33.3333333333333,
+         "percent_min" : 0,
+         "text" : "Spain"
       }
    ],
    "ingredients_analysis" : {
       "en:non-vegan" : [
          "en:milk"
+      ],
+      "en:palm-oil-content-unknown" : [
+         "en:spain"
+      ],
+      "en:vegan-status-unknown" : [
+         "en:spain"
+      ],
+      "en:vegetarian-status-unknown" : [
+         "en:spain"
       ]
    },
    "ingredients_analysis_tags" : [
-      "en:palm-oil-free",
+      "en:palm-oil-content-unknown",
       "en:non-vegan",
-      "en:vegetarian"
+      "en:vegetarian-status-unknown"
    ],
    "ingredients_hierarchy" : [
       "en:milk",
       "en:dairy",
       "en:sugar",
       "en:added-sugar",
-      "en:disaccharide"
+      "en:disaccharide",
+      "en:spain"
    ],
-   "ingredients_n" : 2,
+   "ingredients_n" : 3,
    "ingredients_n_tags" : [
-      "2",
+      "3",
       "1-10"
    ],
    "ingredients_original_tags" : [
       "en:milk",
-      "en:sugar"
+      "en:sugar",
+      "en:spain"
    ],
    "ingredients_percent_analysis" : 1,
    "ingredients_tags" : [
@@ -52,12 +69,13 @@
       "en:dairy",
       "en:sugar",
       "en:added-sugar",
-      "en:disaccharide"
+      "en:disaccharide",
+      "en:spain"
    ],
    "ingredients_text" : "Milk, sugar. Origin of the milk: Belgium, Spain",
    "ingredients_with_specified_percent_n" : 0,
    "ingredients_with_specified_percent_sum" : 0,
-   "ingredients_with_unspecified_percent_n" : 2,
+   "ingredients_with_unspecified_percent_n" : 3,
    "ingredients_with_unspecified_percent_sum" : 100,
    "known_ingredients_n" : 5,
    "lc" : "en",
@@ -65,13 +83,5 @@
       "fruits-vegetables-nuts-estimate-from-ingredients_100g" : 0,
       "fruits-vegetables-nuts-estimate-from-ingredients_serving" : 0
    },
-   "specific_ingredients" : [
-      {
-         "id" : "en:milk",
-         "ingredient" : "milk",
-         "origins" : "en:belgium,en:spain",
-         "text" : "Origin of the milk: Belgium, Spain"
-      }
-   ],
-   "unknown_ingredients_n" : 0
+   "unknown_ingredients_n" : 1
 }

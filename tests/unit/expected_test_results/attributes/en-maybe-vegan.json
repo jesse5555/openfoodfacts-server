@@ -15,55 +15,54 @@
          "attributes" : [
             {
                "description" : "",
-               "description_short" : "Missing data to compute the Nutri-Score",
+               "description_short" : "",
                "grade" : "unknown",
                "icon_url" : "https://server_domain/images/attributes/nutriscore-unknown.svg",
                "id" : "nutriscore",
                "match" : 0,
-               "name" : "Nutri-Score",
                "panel_id" : "nutriscore",
                "status" : "unknown",
-               "title" : "Nutri-Score unknown"
+               "title" : ""
             },
             {
                "grade" : "unknown",
                "icon_url" : "https://server_domain/images/attributes/nutrient-level-salt-unknown.svg",
                "id" : "low_salt",
-               "missing" : "Missing nutrition facts",
+               "missing" : "",
                "name" : "Salt",
                "status" : "unknown",
-               "title" : "Salt in unknown quantity"
+               "title" : ""
             },
             {
                "grade" : "unknown",
                "icon_url" : "https://server_domain/images/attributes/nutrient-level-fat-unknown.svg",
                "id" : "low_fat",
-               "missing" : "Missing nutrition facts",
+               "missing" : "",
                "name" : "Fat",
                "status" : "unknown",
-               "title" : "Fat in unknown quantity"
+               "title" : ""
             },
             {
                "grade" : "unknown",
                "icon_url" : "https://server_domain/images/attributes/nutrient-level-sugars-unknown.svg",
                "id" : "low_sugars",
-               "missing" : "Missing nutrition facts",
+               "missing" : "",
                "name" : "Sugars",
                "status" : "unknown",
-               "title" : "Sugars in unknown quantity"
+               "title" : ""
             },
             {
                "grade" : "unknown",
                "icon_url" : "https://server_domain/images/attributes/nutrient-level-saturated-fat-unknown.svg",
                "id" : "low_saturated_fat",
-               "missing" : "Missing nutrition facts",
+               "missing" : "",
                "name" : "Saturated fat",
                "status" : "unknown",
-               "title" : "Saturated fat in unknown quantity"
+               "title" : ""
             }
          ],
          "id" : "nutritional_quality",
-         "name" : "Nutritional quality"
+         "name" : ""
       },
       {
          "attributes" : [
@@ -75,7 +74,7 @@
                "match" : 100,
                "name" : "Gluten",
                "status" : "known",
-               "title" : "Does not contain: Gluten"
+               "title" : ""
             },
             {
                "debug" : "3 ingredients (0 unknown)",
@@ -85,7 +84,7 @@
                "match" : 100,
                "name" : "Milk",
                "status" : "known",
-               "title" : "Does not contain: Milk"
+               "title" : ""
             },
             {
                "debug" : "3 ingredients (0 unknown)",
@@ -95,7 +94,7 @@
                "match" : 100,
                "name" : "Eggs",
                "status" : "known",
-               "title" : "Does not contain: Eggs"
+               "title" : ""
             },
             {
                "debug" : "3 ingredients (0 unknown)",
@@ -105,7 +104,7 @@
                "match" : 100,
                "name" : "Nuts",
                "status" : "known",
-               "title" : "Does not contain: Nuts"
+               "title" : ""
             },
             {
                "debug" : "3 ingredients (0 unknown)",
@@ -115,7 +114,7 @@
                "match" : 100,
                "name" : "Peanuts",
                "status" : "known",
-               "title" : "Does not contain: Peanuts"
+               "title" : ""
             },
             {
                "debug" : "3 ingredients (0 unknown)",
@@ -125,7 +124,7 @@
                "match" : 100,
                "name" : "Sesame seeds",
                "status" : "known",
-               "title" : "Does not contain: Sesame seeds"
+               "title" : ""
             },
             {
                "debug" : "3 ingredients (0 unknown)",
@@ -135,7 +134,7 @@
                "match" : 100,
                "name" : "Soybeans",
                "status" : "known",
-               "title" : "Does not contain: Soybeans"
+               "title" : ""
             },
             {
                "debug" : "3 ingredients (0 unknown)",
@@ -145,7 +144,7 @@
                "match" : 100,
                "name" : "Celery",
                "status" : "known",
-               "title" : "Does not contain: Celery"
+               "title" : ""
             },
             {
                "debug" : "3 ingredients (0 unknown)",
@@ -155,7 +154,7 @@
                "match" : 100,
                "name" : "Mustard",
                "status" : "known",
-               "title" : "Does not contain: Mustard"
+               "title" : ""
             },
             {
                "debug" : "3 ingredients (0 unknown)",
@@ -165,7 +164,7 @@
                "match" : 100,
                "name" : "Lupin",
                "status" : "known",
-               "title" : "Does not contain: Lupin"
+               "title" : ""
             },
             {
                "debug" : "3 ingredients (0 unknown)",
@@ -175,7 +174,7 @@
                "match" : 100,
                "name" : "Fish",
                "status" : "known",
-               "title" : "Does not contain: Fish"
+               "title" : ""
             },
             {
                "debug" : "3 ingredients (0 unknown)",
@@ -185,7 +184,7 @@
                "match" : 100,
                "name" : "Crustaceans",
                "status" : "known",
-               "title" : "Does not contain: Crustaceans"
+               "title" : ""
             },
             {
                "debug" : "3 ingredients (0 unknown)",
@@ -195,7 +194,7 @@
                "match" : 100,
                "name" : "Molluscs",
                "status" : "known",
-               "title" : "Does not contain: Molluscs"
+               "title" : ""
             },
             {
                "debug" : "3 ingredients (0 unknown)",
@@ -205,12 +204,11 @@
                "match" : 100,
                "name" : "Sulphur dioxide and sulphites",
                "status" : "known",
-               "title" : "Does not contain: Sulphur dioxide and sulphites"
+               "title" : ""
             }
          ],
          "id" : "allergens",
-         "name" : "Allergens",
-         "warning" : "There is always a possibility that data about allergens may be missing, incomplete, incorrect or that the product's composition has changed. If you are allergic, always check the information on the actual product packaging."
+         "name" : ""
       },
       {
          "attributes" : [
@@ -246,90 +244,80 @@
             }
          ],
          "id" : "ingredients_analysis",
-         "name" : "Ingredients"
+         "name" : ""
       },
       {
          "attributes" : [
             {
                "description" : "",
-               "description_short" : "Processed foods",
+               "description_short" : "",
                "grade" : "b",
                "icon_url" : "https://server_domain/images/attributes/nova-group-3.svg",
                "id" : "nova",
                "match" : 75,
-               "name" : "NOVA group",
                "panel_id" : "nova",
                "status" : "known",
-               "title" : "NOVA 3"
+               "title" : ""
             },
             {
                "grade" : "a",
                "icon_url" : "https://server_domain/images/attributes/0-additives.svg",
                "id" : "additives",
                "match" : 100,
-               "name" : "Additives",
                "panel_id" : "additives",
                "status" : "known",
-               "title" : "Without additives"
+               "title" : ""
             }
          ],
          "id" : "processing",
-         "name" : "Food processing"
+         "name" : ""
       },
       {
          "attributes" : [
             {
                "description" : "",
-               "description_short" : "Unknown environmental impact",
+               "description_short" : "",
                "grade" : "unknown",
                "icon_url" : "https://server_domain/images/attributes/ecoscore-unknown.svg",
                "id" : "ecoscore",
                "match" : 0,
-               "name" : "Eco-Score",
                "panel_id" : "ecoscore",
                "status" : "unknown",
-               "title" : "Eco-Score not computed"
+               "title" : ""
             },
             {
                "description" : "",
-               "description_short" : "Currently only for products with chicken or eggs",
+               "description_short" : "",
                "grade" : "e",
                "icon_url" : "https://server_domain/images/attributes/forest-footprint-not-computed.svg",
                "id" : "forest_footprint",
                "match" : 0,
-               "name" : "Forest footprint",
                "status" : "known",
-               "title" : "Forest footprint not computed"
+               "title" : ""
             }
          ],
          "id" : "environment",
-         "name" : "Environment"
+         "name" : ""
       },
       {
          "attributes" : [
             {
-               "description" : "Organic farming aims to protect the environment and to conserve biodiversity by prohibiting or limiting the use of synthetic fertilizers, pesticides and food additives.",
-               "description_short" : "Organic products promote ecological sustainability and biodiversity.",
                "grade" : "unknown",
                "icon_url" : "https://server_domain/images/attributes/organic-unknown.svg",
                "id" : "labels_organic",
-               "name" : "Organic farming",
                "status" : "unknown",
-               "title" : "Missing information: organic product?"
+               "title" : ""
             },
             {
-               "description" : "When you buy fair trade products, producers in developing countries are paid an higher and fairer price, which helps them improve and sustain higher social and often environmental standards.",
-               "description_short" : "Fair trade products help producers in developing countries.",
                "grade" : "unknown",
                "icon_url" : "https://server_domain/images/attributes/fair-trade-unknown.svg",
                "id" : "labels_fair_trade",
-               "name" : "Fair trade",
                "status" : "unknown",
-               "title" : "Missing information: fair trade product?"
+               "title" : ""
             }
          ],
          "id" : "labels",
-         "name" : "Labels"
+         "name" : ""
       }
    ],
    "categories" : "Non-dairy cheeses",

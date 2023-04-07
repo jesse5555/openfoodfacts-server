@@ -17,14 +17,12 @@
       "additives_original_tags" : [],
       "additives_tags" : [],
       "allergens" : "",
-      "allergens_from_ingredients" : "en:milk, milk, eggs",
+      "allergens_from_ingredients" : "en:milk",
       "allergens_from_user" : "(en) ",
       "allergens_hierarchy" : [
-         "en:eggs",
          "en:milk"
       ],
       "allergens_tags" : [
-         "en:eggs",
          "en:milk"
       ],
       "amino_acids_tags" : [],
@@ -669,8 +667,8 @@
       ],
       "ingredients_text" : "apple, milk, eggs, palm oil",
       "ingredients_text_en" : "apple, milk, eggs, palm oil",
-      "ingredients_text_with_allergens" : "apple, <span class=\"allergen\">milk</span>, <span class=\"allergen\">eggs</span>, palm oil",
-      "ingredients_text_with_allergens_en" : "apple, <span class=\"allergen\">milk</span>, <span class=\"allergen\">eggs</span>, palm oil",
+      "ingredients_text_with_allergens" : "apple, milk, eggs, palm oil",
+      "ingredients_text_with_allergens_en" : "apple, milk, eggs, palm oil",
       "ingredients_that_may_be_from_palm_oil_n" : 0,
       "ingredients_that_may_be_from_palm_oil_tags" : [],
       "ingredients_with_specified_percent_n" : 0,
@@ -862,10 +860,10 @@
       "rev" : 1,
       "serving_quantity" : "10",
       "serving_size" : "10 g",
-      "states" : "en:to-be-completed, en:nutrition-facts-completed, en:ingredients-completed, en:expiration-date-to-be-completed, en:packaging-code-to-be-completed, en:characteristics-to-be-completed, en:origins-to-be-completed, en:categories-completed, en:brands-to-be-completed, en:packaging-to-be-completed, en:quantity-completed, en:product-name-completed, en:photos-to-be-uploaded",
+      "states" : "en:to-be-completed, en:nutrition-facts-to-be-completed, en:ingredients-completed, en:expiration-date-to-be-completed, en:packaging-code-to-be-completed, en:characteristics-to-be-completed, en:origins-to-be-completed, en:categories-completed, en:brands-to-be-completed, en:packaging-to-be-completed, en:quantity-completed, en:product-name-completed, en:photos-to-be-uploaded",
       "states_hierarchy" : [
          "en:to-be-completed",
-         "en:nutrition-facts-completed",
+         "en:nutrition-facts-to-be-completed",
          "en:ingredients-completed",
          "en:expiration-date-to-be-completed",
          "en:packaging-code-to-be-completed",
@@ -880,7 +878,7 @@
       ],
       "states_tags" : [
          "en:to-be-completed",
-         "en:nutrition-facts-completed",
+         "en:nutrition-facts-to-be-completed",
          "en:ingredients-completed",
          "en:expiration-date-to-be-completed",
          "en:packaging-code-to-be-completed",
@@ -905,8 +903,8 @@
    },
    "result" : {
       "id" : "product_found",
-      "lc_name" : "Product found",
-      "name" : "Product found"
+      "lc_name" : "",
+      "name" : ""
    },
    "status" : "success",
    "warnings" : []

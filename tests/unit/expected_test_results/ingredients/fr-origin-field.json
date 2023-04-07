@@ -47,7 +47,6 @@
       },
       {
          "id" : "en:rose-wine",
-         "origins" : "en:spain",
          "percent_estimate" : 1.42045454545455,
          "percent_max" : 16.6666666666667,
          "percent_min" : 0,
@@ -95,7 +94,6 @@
       },
       {
          "id" : "en:pepper",
-         "origins" : "en:nepal",
          "percent_estimate" : 0.0887784090909065,
          "percent_max" : 9.09090909090909,
          "percent_min" : 0,
@@ -246,12 +244,6 @@
          "ingredient" : "Tomates",
          "origins" : "en:italy",
          "text" : "Tomates d'Italie."
-      },
-      {
-         "id" : "en:pepper",
-         "ingredient" : "poivre",
-         "origins" : "en:nepal",
-         "text" : "Origine du poivre: Népal"
       }
    ],
    "unknown_ingredients_n" : 2

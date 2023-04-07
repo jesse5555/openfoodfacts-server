@@ -398,54 +398,16 @@
    "ingredients" : [
       {
          "id" : "en:milk",
-         "percent_estimate" : 66.6666666666667,
+         "percent_estimate" : 58.3333333333333,
          "percent_max" : 100,
-         "percent_min" : 33.3333333333333,
+         "percent_min" : 16.6666666666667,
          "text" : "Milk",
          "vegan" : "no",
          "vegetarian" : "yes"
       },
       {
          "id" : "en:chocolate",
-         "ingredients" : [
-            {
-               "id" : "en:cocoa",
-               "percent_estimate" : 8.33333333333333,
-               "percent_max" : 50,
-               "percent_min" : 0,
-               "text" : "cocoa",
-               "vegan" : "yes",
-               "vegetarian" : "yes"
-            },
-            {
-               "id" : "en:cocoa-butter",
-               "percent_estimate" : 4.16666666666667,
-               "percent_max" : 25,
-               "percent_min" : 0,
-               "text" : "cocoa butter",
-               "vegan" : "yes",
-               "vegetarian" : "yes"
-            },
-            {
-               "id" : "en:sweetener",
-               "ingredients" : [
-                  {
-                     "id" : "en:e951",
-                     "percent_estimate" : 4.16666666666667,
-                     "percent_max" : 16.6666666666667,
-                     "percent_min" : 0,
-                     "text" : "aspartame",
-                     "vegan" : "yes",
-                     "vegetarian" : "yes"
-                  }
-               ],
-               "percent_estimate" : 4.16666666666667,
-               "percent_max" : 16.6666666666667,
-               "percent_min" : 0,
-               "text" : "sweetener"
-            }
-         ],
-         "percent_estimate" : 16.6666666666667,
+         "percent_estimate" : 20.8333333333333,
          "percent_max" : 50,
          "percent_min" : 0,
          "text" : "chocolate",
@@ -453,9 +415,34 @@
          "vegetarian" : "yes"
       },
       {
-         "id" : "en:salt",
-         "percent_estimate" : 16.6666666666667,
+         "id" : "en:cocoa",
+         "percent_estimate" : 10.4166666666667,
          "percent_max" : 33.3333333333333,
+         "percent_min" : 0,
+         "text" : "cocoa",
+         "vegan" : "yes",
+         "vegetarian" : "yes"
+      },
+      {
+         "id" : "en:cocoa-butter",
+         "percent_estimate" : 5.20833333333333,
+         "percent_max" : 25,
+         "percent_min" : 0,
+         "text" : "cocoa butter",
+         "vegan" : "yes",
+         "vegetarian" : "yes"
+      },
+      {
+         "id" : "en:sweetener",
+         "percent_estimate" : 2.60416666666666,
+         "percent_max" : 20,
+         "percent_min" : 0,
+         "text" : "sweetener"
+      },
+      {
+         "id" : "en:salt",
+         "percent_estimate" : 2.60416666666666,
+         "percent_max" : 16.6666666666667,
          "percent_min" : 0,
          "text" : "salt",
          "vegan" : "yes",
@@ -476,43 +463,40 @@
       "en:milk",
       "en:dairy",
       "en:chocolate",
-      "en:salt",
       "en:cocoa",
       "en:cocoa-butter",
       "en:sweetener",
-      "en:e951"
+      "en:salt"
    ],
-   "ingredients_n" : 7,
+   "ingredients_n" : 6,
    "ingredients_n_tags" : [
-      "7",
+      "6",
       "1-10"
    ],
    "ingredients_original_tags" : [
       "en:milk",
       "en:chocolate",
-      "en:salt",
       "en:cocoa",
       "en:cocoa-butter",
       "en:sweetener",
-      "en:e951"
+      "en:salt"
    ],
    "ingredients_percent_analysis" : 1,
    "ingredients_tags" : [
       "en:milk",
       "en:dairy",
       "en:chocolate",
-      "en:salt",
       "en:cocoa",
       "en:cocoa-butter",
       "en:sweetener",
-      "en:e951"
+      "en:salt"
    ],
    "ingredients_text" : "Milk, chocolate (cocoa, cocoa butter, sweetener: aspartame), salt",
    "ingredients_with_specified_percent_n" : 0,
    "ingredients_with_specified_percent_sum" : 0,
-   "ingredients_with_unspecified_percent_n" : 5,
+   "ingredients_with_unspecified_percent_n" : 6,
    "ingredients_with_unspecified_percent_sum" : 100,
-   "known_ingredients_n" : 8,
+   "known_ingredients_n" : 7,
    "lc" : "en",
    "misc_tags" : [
       "en:packagings-not-complete",
